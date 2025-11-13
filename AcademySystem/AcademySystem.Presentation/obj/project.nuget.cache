@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tr1o0a3gPYo=",
+  "success": true,
+  "projectFilePath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Presentation/AcademySystem.Presentation.csproj",
+  "expectedPackageFiles": [
+    "/home/potato/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/potato/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

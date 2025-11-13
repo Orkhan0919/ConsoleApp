@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AcademySystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AcademySystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademySystem.Domain.dll": {}
+        }
+      },
+      "AcademySystem.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AcademySystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AcademySystem.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademySystem.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademySystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AcademySystem.Domain/AcademySystem.Domain.csproj",
+      "msbuildProject": "../AcademySystem.Domain/AcademySystem.Domain.csproj"
+    },
+    "AcademySystem.Repository/1.0.0": {
+      "type": "project",
+      "path": "../AcademySystem.Repository/AcademySystem.Repository.csproj",
+      "msbuildProject": "../AcademySystem.Repository/AcademySystem.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AcademySystem.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/potato/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj",
+      "projectName": "AcademySystem.Service",
+      "projectPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj",
+      "packagesPath": "/home/potato/.nuget/packages/",
+      "outputPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/potato/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj": {
+              "projectPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

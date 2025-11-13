@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AcademySystem.Presentation/1.0.0": {
+        "dependencies": {
+          "AcademySystem.Service": "1.0.0"
+        },
+        "runtime": {
+          "AcademySystem.Presentation.dll": {}
+        }
+      },
+      "AcademySystem.Domain/1.0.0": {
+        "runtime": {
+          "AcademySystem.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AcademySystem.Repository/1.0.0": {
+        "dependencies": {
+          "AcademySystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AcademySystem.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AcademySystem.Service/1.0.0": {
+        "dependencies": {
+          "AcademySystem.Repository": "1.0.0"
+        },
+        "runtime": {
+          "AcademySystem.Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademySystem.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcademySystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcademySystem.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcademySystem.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
