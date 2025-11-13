@@ -8,33 +8,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a11fec-bbd0-42af-b1d9-14caf40b88c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/Entities/Groups.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/Entities/Groups.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AcademySystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AcademySystem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/bin/Debug/net8.0/AcademySystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/bin/Debug/net8.0/AcademySystem.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/bin/Debug/net8.0/AcademySystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/bin/Debug/net8.0/AcademySystem.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/AcademySystem.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/AcademySystem.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/AcademySystem.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/AcademySystem.Domain.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.sourcelink.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/ref/AcademySystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/ref/AcademySystem.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/refint/AcademySystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/Debug/net8.0/refint/AcademySystem.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Domain/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/Controller/GroupController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/Controller/GroupController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/Controller/StudentController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/Controller/StudentController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/Helpers/Helper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/Helpers/Helper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/Helpers/Menus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/Helpers/Menus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/Helpers/PrintOptions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/Helpers/PrintOptions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Presentation.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Presentation.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Presentation.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Presentation.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Repository.dll" afterDir="false" />
@@ -42,7 +35,6 @@
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Service.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/bin/Debug/net8.0/AcademySystem.Service.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/AcademySystem.Presentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/AcademySystem.Presentation.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/AcademySystem.Presentation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/AcademySystem.Presentation.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
@@ -53,19 +45,17 @@
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/AcademySystem.Presentation.sourcelink.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/ref/AcademySystem.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/ref/AcademySystem.Presentation.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/refint/AcademySystem.Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/Debug/net8.0/refint/AcademySystem.Presentation.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/Repositories/Implementations/StudentRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/Repositories/Implementations/StudentRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Presentation/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Presentation/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Repository.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Repository.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Repository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/bin/Debug/net8.0/AcademySystem.Repository.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/AcademySystem.Repository.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/AcademySystem.Repository.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/AcademySystem.Repository.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/AcademySystem.Repository.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
@@ -75,22 +65,19 @@
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/AcademySystem.Repository.sourcelink.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/ref/AcademySystem.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/ref/AcademySystem.Repository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/refint/AcademySystem.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/Debug/net8.0/refint/AcademySystem.Repository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Service/Services/Implementations/GroupService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/Services/Implementations/GroupService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Service/Services/Interfaces/IGroupService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/Services/Interfaces/IGroupService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Repository/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Repository/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Repository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Repository.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Service.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Service.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Service.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/bin/Debug/net8.0/AcademySystem.Service.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/AcademySystem.Service.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/AcademySystem.Service.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/AcademySystem.Service.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/AcademySystem.Service.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
@@ -100,11 +87,12 @@
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/AcademySystem.Service.sourcelink.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/ref/AcademySystem.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/ref/AcademySystem.Service.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/refint/AcademySystem.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/Debug/net8.0/refint/AcademySystem.Service.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademySystem.Service/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AcademySystem.Service/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,23 +116,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.AcademySystem.Presentation.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.AcademySystem.Presentation.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeLensConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="AcademySystem.Presentation" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -183,6 +171,7 @@
       <workItem from="1762899499197" duration="7169000" />
       <workItem from="1762936848233" duration="2262000" />
       <workItem from="1762993633098" duration="2522000" />
+      <workItem from="1763007401004" duration="1633000" />
     </task>
     <servers />
   </component>

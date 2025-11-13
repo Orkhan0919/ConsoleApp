@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hOPL8bEQj4=",
+  "dgSpecHash": "xcnND5U4n/k=",
   "success": true,
-  "projectFilePath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj",
+  "projectFilePath": "/home/potato/Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj",
   "expectedPackageFiles": [
     "/home/potato/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
   ],

@@ -32,49 +32,61 @@ namespace AcademySystem.Presentation.Controller
         }
 
         public void Create()
-        {
-        name: Helper.PrintConsole(ConsoleColor.DarkBlue, "Enter the name of the group:");
-            Helper.PrintConsole2(ConsoleColor.Gray, ">>>");
-            string groupName = Console.ReadLine();
-            while (string.IsNullOrWhiteSpace(groupName))
-            {
-                Helper.PrintConsole(ConsoleColor.DarkBlue, "Please enter a valid group name:");
-                goto name;
-            }
-            groupName = char.ToUpper(groupName[0]) + groupName.Substring(1).ToLower();
+{
+name: 
+    Helper.PrintConsole(ConsoleColor.DarkBlue, "Enter the name of the group:");
+    Helper.PrintConsole2(ConsoleColor.Gray, ">>>");
+    string groupName = Console.ReadLine();
 
-        teacher: Helper.PrintConsole(ConsoleColor.DarkBlue, "Enter the teacher's name for this group:");
-            Helper.PrintConsole2(ConsoleColor.Gray, ">>>");
-            string groupTeacher = Console.ReadLine();
-            while (string.IsNullOrWhiteSpace(groupTeacher))
-            {
-                Helper.PrintConsole(ConsoleColor.DarkBlue, "Please enter a valid teacher name:");
-                goto teacher;
-            }
-            groupTeacher = char.ToUpper(groupTeacher[0]) + groupTeacher.Substring(1).ToLower();
+    while (string.IsNullOrWhiteSpace(groupName))
+    {
+        Helper.PrintConsole(ConsoleColor.DarkBlue, "Please enter a valid group name:");
+        goto name;
+    }
+    groupName = char.ToUpper(groupName[0]) + groupName.Substring(1).ToLower();
 
-        Room: Helper.PrintConsole(ConsoleColor.DarkBlue, "Enter the room number for this group:");
-        Helper.PrintConsole2(ConsoleColor.Gray, ">>>");
-            string groupRoom = Console.ReadLine();
+    
+    var existingGroup = groupService.GetAll().FirstOrDefault(g => g.Name == groupName);
+    if (existingGroup != null)
+    {
+        Helper.PrintConsole(ConsoleColor.Red, $"A group with the name '{groupName}' already exists!");
+        goto name;
+    }
 
-            int room;
+teacher: 
+    Helper.PrintConsole(ConsoleColor.DarkBlue, "Enter the teacher's name for this group:");
+    Helper.PrintConsole2(ConsoleColor.Gray, ">>>");
+    string groupTeacher = Console.ReadLine();
+    while (string.IsNullOrWhiteSpace(groupTeacher) || groupTeacher.Any(char.IsDigit))
+    {
+        Helper.PrintConsole(ConsoleColor.Yellow, "Please enter a valid teacher name:");
+        goto teacher;
+    }
+    groupTeacher = char.ToUpper(groupTeacher[0]) + groupTeacher.Substring(1).ToLower();
 
-            bool isRoom = int.TryParse(groupRoom, out room);
-            if (isRoom)
-            {
-                Groups group = new Groups { Name = groupName, Teacher = groupTeacher, Room = room };
-                var result = groupService.Create(group);
-                Helper.PrintConsole(ConsoleColor.DarkGreen, $"Group successfully created!\nID: {group.Id}, Name: {group.Name}, " +
-                    $"Teacher: {group.Teacher}, Room: {group.Room}");
-                Helper.PrintConsole(ConsoleColor.DarkGreen, "You can now choose another action:");
-                options.GetMenu();
-            }
-            else
-            {
-                Helper.PrintConsole(ConsoleColor.Red, "Invalid input. Please enter a valid room number:");
-                goto Room;
-            }
-        }
+Room: 
+    Helper.PrintConsole(ConsoleColor.DarkBlue, "Enter the room number for this group:");
+    Helper.PrintConsole2(ConsoleColor.Gray, ">>>");
+    string groupRoom = Console.ReadLine();
+
+    int room;
+    bool isRoom = int.TryParse(groupRoom, out room);
+    if (isRoom)
+    {
+        Groups group = new Groups { Name = groupName, Teacher = groupTeacher, Room = room };
+        var result = groupService.Create(group);
+        Helper.PrintConsole(ConsoleColor.DarkGreen, $"Group successfully created!\nID: {group.Id}, Name: {group.Name}, " +
+            $"Teacher: {group.Teacher}, Room: {group.Room}");
+        Helper.PrintConsole(ConsoleColor.DarkGreen, "You can now choose another action:");
+        options.GetMenu();
+    }
+    else
+    {
+        Helper.PrintConsole(ConsoleColor.Red, "Invalid input. Please enter a valid room number:");
+        goto Room;
+    }
+}
+
 
         public void GetById()
         {

@@ -32,3 +32,15 @@ C:/Users/User/Desktop/Course-Application/AcademySystem/AcademySystem.Domain/obj/
 /home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/refint/AcademySystem.Domain.dll
 /home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.pdb
 /home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/ref/AcademySystem.Domain.dll
+/home/potato/Application/AcademySystem/AcademySystem.Domain/bin/Debug/net8.0/AcademySystem.Domain.deps.json
+/home/potato/Application/AcademySystem/AcademySystem.Domain/bin/Debug/net8.0/AcademySystem.Domain.dll
+/home/potato/Application/AcademySystem/AcademySystem.Domain/bin/Debug/net8.0/AcademySystem.Domain.pdb
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.AssemblyInfoInputs.cache
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.AssemblyInfo.cs
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.csproj.CoreCompileInputs.cache
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.sourcelink.json
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.dll
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/refint/AcademySystem.Domain.dll
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/AcademySystem.Domain.pdb
+/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/Debug/net8.0/ref/AcademySystem.Domain.dll

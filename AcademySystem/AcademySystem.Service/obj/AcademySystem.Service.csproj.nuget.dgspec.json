@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj": {}
+    "/home/potato/Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj": {}
   },
   "projects": {
-    "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj": {
+    "/home/potato/Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj",
+        "projectUniqueName": "/home/potato/Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj",
         "projectName": "AcademySystem.Domain",
-        "projectPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj",
+        "projectPath": "/home/potato/Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj",
         "packagesPath": "/home/potato/.nuget/packages/",
-        "outputPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/obj/",
+        "outputPath": "/home/potato/Application/AcademySystem/AcademySystem.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/potato/.nuget/NuGet/NuGet.Config"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj": {
+    "/home/potato/Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj",
+        "projectUniqueName": "/home/potato/Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj",
         "projectName": "AcademySystem.Repository",
-        "projectPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj",
+        "projectPath": "/home/potato/Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj",
         "packagesPath": "/home/potato/.nuget/packages/",
-        "outputPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/obj/",
+        "outputPath": "/home/potato/Application/AcademySystem/AcademySystem.Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/potato/.nuget/NuGet/NuGet.Config"
@@ -91,8 +91,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj": {
-                "projectPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj"
+              "/home/potato/Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj": {
+                "projectPath": "/home/potato/Application/AcademySystem/AcademySystem.Domain/AcademySystem.Domain.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj": {
+    "/home/potato/Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj",
+        "projectUniqueName": "/home/potato/Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj",
         "projectName": "AcademySystem.Service",
-        "projectPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj",
+        "projectPath": "/home/potato/Application/AcademySystem/AcademySystem.Service/AcademySystem.Service.csproj",
         "packagesPath": "/home/potato/.nuget/packages/",
-        "outputPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Service/obj/",
+        "outputPath": "/home/potato/Application/AcademySystem/AcademySystem.Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/potato/.nuget/NuGet/NuGet.Config"
@@ -160,8 +160,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj": {
-                "projectPath": "/home/potato/Application/Course-Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj"
+              "/home/potato/Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj": {
+                "projectPath": "/home/potato/Application/AcademySystem/AcademySystem.Repository/AcademySystem.Repository.csproj"
               }
             }
           }
