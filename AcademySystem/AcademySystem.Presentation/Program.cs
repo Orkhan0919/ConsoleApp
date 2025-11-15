@@ -1,3 +1,4 @@
-﻿using AcademySystem.Presentation;
+#using system;
+using AcademySystem.Presentation;
 
 Manager.Manage();
